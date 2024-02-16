@@ -1,0 +1,9 @@
+{
+  "name": "modules-products",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "modules/products/src",
+  "prefix": "my-app",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
